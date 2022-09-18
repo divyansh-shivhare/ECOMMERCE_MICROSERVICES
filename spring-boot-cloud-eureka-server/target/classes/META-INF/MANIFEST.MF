@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: shivhared
+Build-Jdk: 11.0.12
+Implementation-Title: spring-microservice-eureka-server
+Implementation-Version: 1.0.0
+
+
