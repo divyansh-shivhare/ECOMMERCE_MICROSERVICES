@@ -109,7 +109,7 @@ Use the following information
 ```
 Username: zone1
 Password: mypassword
-ClientId: javadeveloperzone
+ClientId: divyansh
 Secret: secret
 ```
 Output 
@@ -134,7 +134,7 @@ curl -X POST \
   -H 'cache-control: no-cache' \
   -H 'content-type: application/json' \
   -H 'postman-token: d73bb63f-969c-4081-1dee-77fa2b0f1f5a' \
-  -d '{"firstName":"subhash", "lastName": "Lamba"}'
+  -d '{"firstName":"divyansh", "lastName": "shivhare"}'
  
  ```
 ### 5.2 Using Swagger UI
@@ -177,13 +177,13 @@ curl -X GET \
 {
     "user": {
         "id": 1,
-        "firstName": "subhash",
-        "lastName": "Lamba"
+        "firstName": "divyansh",
+        "lastName": "shivhare"
     },
     "orders": [
         {
             "id": 5,
-            "orderDate": "2021-01-01T00:00:00.000+00:00",
+            "orderDate": "2021-02-01T00:00:00.000+00:00",
             "userId": 1
         }
     ]
