@@ -31,7 +31,6 @@ Spring boot microservice example with Eureka Server + Eureka Client + Spring Clo
 
 
 ```sh
-> git clone https://github.com/subhashlamba/spring-microservices.git
 > cd spring-boot-microservices-example
 ```
 
